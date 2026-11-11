@@ -1,4 +1,5 @@
 "Hello Git" 
 "line 2" 
 i am a junior game developer 
+i am learning Python and AI to build AI agents
 
